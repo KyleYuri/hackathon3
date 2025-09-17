@@ -105,16 +105,6 @@ export default async function Home() {
       bio: "Expert in creating intricate patterns using traditional pandan leaves.",
       products: 8,
     },
-    {
-      id: 3,
-      name: "Carmen Flores",
-      specialty: "Patadyong Design",
-      location: "Iloilo City",
-      experience: "30 years",
-      avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=carmen",
-      bio: "Renowned designer of traditional Filipino formal wear.",
-      products: 15,
-    },
   ];
 
   return (
