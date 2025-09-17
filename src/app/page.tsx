@@ -107,7 +107,7 @@ export default async function Home() {
     },
     {
       id: 3,
-      name: "Carmen Flores",
+      name: "Carmn Flores",
       specialty: "Patadyong Design",
       location: "Iloilo City",
       experience: "30 years",
